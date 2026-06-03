@@ -1,0 +1,16 @@
+# Normalize line endings
+* text=auto
+
+# Treat Jupyter notebooks as binary to avoid merge conflicts
+*.ipynb merge=binary
+
+# Binary file types
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Keep large data files out of archives
+data/* export-ignore
+outputs/* export-ignore
