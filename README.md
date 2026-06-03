@@ -199,7 +199,7 @@ This implementation follows the approach proposed in the following paper (used a
 
 - Bilal, H., Tian, Y., Ali, A., Muhammad, Y., Yahya, A., Izneid, B. A., & Ullah, I. (2024). An intelligent approach for early and accurate predication of cardiac disease using hybrid artificial intelligence techniques.
 
-Suggested BibTeX citation:
+BibTeX citation:
 
 ```bibtex
 @article{bilal2024intelligent,
