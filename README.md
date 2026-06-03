@@ -109,8 +109,8 @@ etcxgb-heart-disease/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/etcxgb-heart-disease.git
-cd etcxgb-heart-disease
+git clone https://github.com/kashif-zafar/ETCXGB-Heart-Disease.git
+cd ETCXGB-Heart-Disease
 ```
 
 ### 2. Install dependencies
